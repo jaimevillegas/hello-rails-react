@@ -23,15 +23,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 IoT Expenses <a name="about-project"></a>
+# 📖 Hello React Rails <a name="about-project"></a>
 
-You can watch the live demo here! https://www.loom.com/share/5bbbb5dfd2014ef698dda2c264a95d36
+**Hello React Rails** is an implementation of Ruby on Rails and React-Redux with webpack
 
-**IoT Expenses** is the Capstone project for the module Rails. It is a mobile application that allows the user to: 
-
-- Register and login, so that the data is private to them.
-- Introduce new transactions associated with a category.
-- See the money spent on each category.
+- It shows a random greeting
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,6 +39,8 @@ You can watch the live demo here! https://www.loom.com/share/5bbbb5dfd2014ef698d
   <ul>
    <li>HTML</li>
    <li>Bootstrap</li>
+   <li>React</li>
+   <li>Redux</li>
   </ul>
 </details>
 
@@ -64,9 +62,7 @@ You can watch the live demo here! https://www.loom.com/share/5bbbb5dfd2014ef698d
 
 ### Key Features <a name="key-features"></a>
 
-- Register and login, so that the data is private to them.
-- Introduce new transactions associated with a category.
-- See the money spent on each category.
+- It shows a random greeting
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -74,7 +70,7 @@ You can watch the live demo here! https://www.loom.com/share/5bbbb5dfd2014ef698d
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-https://rails-capstone-project.onrender.com/
+Currently, I don't have a live demo of this project. I will let you know when it is available ASAP!
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -98,7 +94,7 @@ In order to run this project you need to:
 Clone the repo into your local machine:
 
 ```bash
-git clone https://github.com/dicodiaz/rails-capstone-project
+git clone https://github.com/dicodiaz/hello-rails-react.git
 ```
 
 Install the dependencies using bundler:
@@ -160,8 +156,6 @@ If you like this project leave a start for it.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 We would like to thank Microverse for helping us in the journey to become a Fullstack developer 🌹
-
-Special thanks to https://www.behance.net/gregoirevella for making an awesome design idea.
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
